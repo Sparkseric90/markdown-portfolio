@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* 3d printing
+* cad design
+* coding (<b>Favorite)
