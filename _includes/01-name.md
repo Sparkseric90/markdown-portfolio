@@ -1,3 +1,3 @@
-<h1>Eric Sparks
-
-<h2>Just a header test im conducting
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
